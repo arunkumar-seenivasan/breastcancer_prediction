@@ -11,8 +11,6 @@ The classifier demonstrated superior accuracy over others, showcasing its potent
 
 <img width="1200" height="600" alt="loss_accuracy_curve" src="https://github.com/user-attachments/assets/de6e4c82-2596-48d0-877e-d0c765a648e3" />
 
-<img width="600" height="600" alt="confusion_matrix" src="https://github.com/user-attachments/assets/d1798e90-fb18-4d3f-89ed-d159ba150602" />
-
 
 Python 🐍
 Machine Learning Model 🤖
