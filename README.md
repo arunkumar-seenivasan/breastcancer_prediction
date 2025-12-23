@@ -9,7 +9,6 @@ Identify the most accurate model for effective and early diagnosis.
 ✅ Results:
 The classifier demonstrated superior accuracy over others, showcasing its potential to improve breast cancer detection and patient management.
 
-💡 Key Tools:
 Python 🐍
 Machine Learning Model 🤖
 Accuracy Metrics 📈
