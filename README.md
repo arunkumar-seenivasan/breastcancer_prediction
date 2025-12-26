@@ -1,20 +1,24 @@
-# BREAST CANCER PREDICTION AND ANALYSIS
+# Breast Cancer prediction
 
-📊 Overview:
-Breast cancer classification is performed by evaluating various classifiers on a historical breast cancer dataset using Python.
+### Introduction
 
-🎯 Objective:
-Identify the most accurate model for effective and early diagnosis.
+This project uses Machine Learning and Deep Learning (LSTM) to detect breast cancer from medical data. The model classifies tumors as cancerous or non-cancerous.
 
-✅ Results:
-The classifier demonstrated superior accuracy over others, showcasing its potential to improve breast cancer detection and patient management.
+### Dataset
 
-<img width="1200" height="600" alt="loss_accuracy_curve" src="https://github.com/user-attachments/assets/de6e4c82-2596-48d0-877e-d0c765a648e3" />
+The dataset is loaded from a CSV file and includes multiple medical features. The diagnosis column is encoded into numerical values for model training.
 
+### Methodology
 
-Python 🐍
-Machine Learning Model 🤖
-Accuracy Metrics 📈
+* Data preprocessing and label encoding
+* Train-test split (80% training, 20% testing)
+* LSTM-based neural network model
+* Model training using binary cross-entropy loss
 
-🩺 Impact:
-Reliable diagnostic tools for better healthcare outcomes.
+### Evaluation
+
+The model performance is evaluated using:
+
+* Accuracy score
+* Confusion matrix
+* Loss and accuracy graphs
