@@ -22,3 +22,5 @@ The model performance is evaluated using:
 * Accuracy score
 * Confusion matrix
 * Loss and accuracy graphs
+  
+<img width="1200" height="600" alt="loss_accuracy_curve" src="https://github.com/user-attachments/assets/46d91e8e-7358-4ef3-a967-1509289ee11b" />
